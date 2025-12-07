@@ -13,13 +13,14 @@ Here's a draft based on what I know about your project:
 
 
 
+
 ## Submission Details
 
-
+![Screenshot 2025-12-07 at 16 02 26](https://github.com/user-attachments/assets/1af59623-47de-4428-ab54-672e9795f6c3)
 
 <img width="952" height="852" alt="Screenshot 2025-12-06 at 18 37 54" src="https://github.com/user-attachments/assets/a888cf3f-4e9a-4c52-adb3-e39be860f133" />
 
-<img width="1231" height="640" alt="Screenshot 2025-12-07 at 16 12 16" src="https://github.com/user-attachments/assets/e87146e9-27dd-4dc0-9305-d0d6d3e39de3" />
+
 
 ### 1. Mission Description
 
