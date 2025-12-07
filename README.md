@@ -14,6 +14,9 @@ Here's a draft based on what I know about your project:
 
 ## Submission Details
 
+<img width="952" height="852" alt="Screenshot 2025-12-06 at 18 37 54" src="https://github.com/user-attachments/assets/a888cf3f-4e9a-4c52-adb3-e39be860f133" />
+
+
 ### 1. Mission Description
 
 - Voice-controlled pick-and-place for accessibility and hands-free operation
