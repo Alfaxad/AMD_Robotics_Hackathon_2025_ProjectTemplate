@@ -11,7 +11,7 @@ Here's a draft based on what I know about your project:
 **Summary:** A voice-controlled robotic manipulation system that combines speech-to-text with vision-language-action models. Users speak natural language commands like "pick up the cube and place it in the bin," which are processed by Faster Whisper and executed by a fine-tuned SmolVLA model on an SO-101 robotic arm.
 
 
-![Screenshot 2025-12-07 at 16 02 26](https://github.com/user-attachments/assets/b2c559ea-7c8e-46af-8780-d389b3d068c9)
+
 
 ## Submission Details
 
@@ -19,6 +19,7 @@ Here's a draft based on what I know about your project:
 
 <img width="952" height="852" alt="Screenshot 2025-12-06 at 18 37 54" src="https://github.com/user-attachments/assets/a888cf3f-4e9a-4c52-adb3-e39be860f133" />
 
+<img width="1231" height="640" alt="Screenshot 2025-12-07 at 16 12 16" src="https://github.com/user-attachments/assets/e87146e9-27dd-4dc0-9305-d0d6d3e39de3" />
 
 ### 1. Mission Description
 
