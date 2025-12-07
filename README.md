@@ -18,7 +18,8 @@ Here's a draft based on what I know about your project:
 
 ![Screenshot 2025-12-07 at 16 02 26](https://github.com/user-attachments/assets/1af59623-47de-4428-ab54-672e9795f6c3)
 
-<img width="952" height="852" alt="Screenshot 2025-12-06 at 18 37 54" src="https://github.com/user-attachments/assets/a888cf3f-4e9a-4c52-adb3-e39be860f133" />
+<img width="1231" height="640" alt="Screenshot 2025-12-07 at 16 13 41" src="https://github.com/user-attachments/assets/47ab8df9-0c68-4ca5-b1d0-594e67fff295" />
+
 
 
 
